@@ -23,3 +23,35 @@
     width: 100px;
     background-color: yellow;
 }
+
+
+
+#practice{
+    display: flex;
+    background-color: blue;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+ #container{
+    width: 370px;
+    height: 100px;
+    background-color: white;
+    /* display: flex; */
+    text-align: center;
+    padding: 30px;
+    /* align-items: center;
+    justify-content: center; */
+} 
+
+button{
+    background-color: rgb(5, 4, 4);
+    color: white;
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 30px;
+}
