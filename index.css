@@ -1,13 +1,17 @@
 #red{
     height: 100px;
     width: 100px;
-    background-color: red ;
+    background-color: rgb(228, 31, 31)
 }
 
 #blue{
+     height: 100px;
+    width: 100px;
     background-color: blue;
 }
 
 #yellow{
-    background-color: yellow;
+     height: 100px;
+    width: 100px;
+    background-color: rgb(0, 204, 255);
 }
