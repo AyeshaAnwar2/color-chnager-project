@@ -1,17 +1,25 @@
+#color{
+    display: flex;
+    flex-direction: row;
+
+}
+
 #red{
+    margin-right: 3px;
     height: 100px;
     width: 100px;
     background-color: rgb(228, 31, 31)
 }
 
 #blue{
+      margin-right: 3px;
      height: 100px;
     width: 100px;
     background-color: blue;
 }
-
 #yellow{
+      margin-right: 3px;
      height: 100px;
     width: 100px;
-    background-color: rgb(0, 204, 255);
+    background-color: rgb(183, 255, 0);
 }
